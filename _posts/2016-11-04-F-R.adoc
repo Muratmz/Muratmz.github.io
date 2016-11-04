@@ -1,0 +1,11 @@
+= FR4
+
+https://en.wikipedia.org/wiki/FR-4
+
+FR-4 (or FR4) is a grade designation assigned to glass-reinforced epoxy laminate sheets, tubes, rods and printed circuit boards (PCB). FR-4 is a composite material composed of woven fiberglass cloth with an epoxy resin binder that is flame resistant (self-extinguishing).
+
+"FR" stands for flame retardant, and denotes that safety of flammability of FR-4 is in compliance with the standard UL94V-0. FR-4 was created from the constituent materials (epoxy resin, woven glass fabric reinforcement, brominated flame retardant, etc.) by NEMA in 1968.
+
+FR-4 glass epoxy is a popular and versatile high-pressure thermoset plastic laminate grade with good strength to weight ratios. With near zero water absorption, FR-4 is most commonly used as an electrical insulator possessing considerable mechanical strength. The material is known to retain its high mechanical values and electrical insulating qualities in both dry and humid conditions. These attributes, along with good fabrication characteristics, lend utility to this grade for a wide variety of electrical and mechanical applications.
+
+NEMA is the regulating authority for FR-4 and other insulating laminate grades. Grade designations for glass epoxy laminates are: G10, G11, FR4, FR5 and FR6. Of these, FR4 is the grade most widely in use today. G-10, the predecessor to FR-4, lacks FR-4's self-extinguishing flammability characteristics. Hence, FR-4 has since[when?] replaced G-10 in most applications.
