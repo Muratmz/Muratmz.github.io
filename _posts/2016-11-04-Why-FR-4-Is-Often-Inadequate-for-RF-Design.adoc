@@ -1,0 +1,9 @@
+= Why FR-4 Is Often Inadequate for RF Design
+
+Many times, designers want to use FR-4 for RF and microwave circuit designs. After all, it is less expensive than other materials, like Rogers 4350, and much less expensive than reinforced PTFE composite boards such as Rogers RT/Duroid 5870. However, sometimes it is necessary to spend the money for higher quality circuit board material and processing to get good, repeatable designs.
+In this paper, to demonstrate the danger of using FR-4 for some designs, I will design a bandpass filter to work in the 2.4 GHz FCC Part 15 band which is typically used for WiFi, Bluetooth, ZigBee, cordless phones, and many other applications. The filter will be designed using the microwave filter design tool that is part of the Keysight (formerly Agilent) Genesys suite of RF and microwave design software. The pass band is defined as 2.4 to 2.483 GHz. I set an insertion loss goal of 3 dB. The filter program first designs a filter which is close to the desired performance, but it must be optimized to get the performance that is closest to the desired performance. In the case of the first filter, I used FR-4 with a dielectric constant of 4.5, a loss tangent of 0.010, and a thickness of 59 mils. The metallization is 1 oz. rolled copper. Figure 1 shows the final, optimized performance.
+ 
+By Ed Troy,  Aerospace Consulting, LLC
+http://www.rfcafe.com/references/articles/ed-troy/Why-FR-4-Often-Inadequate-RF-Design-Ed-Troy.htm
+
+[PDF] http://wovre.com/docs/Why%20FR-4%20Is%20Often%20Inadequate%20for%20RF%20Design%20(by%20Ed%20TRoy)%20-%20RF%20Cafe.pdf
