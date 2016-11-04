@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes of a researcher : Wireless Communication Research]]></title><description><![CDATA[Research and Development Systems: Wireless Communication and Engineering Systems]]></description><link>https://muratmz.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 04 Nov 2016 20:02:45 GMT</lastBuildDate><atom:link href="https://muratmz.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Why FR-4 Is Often Inadequate for RF Design]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes of a researcher : Wireless Communication Research]]></title><description><![CDATA[Research and Development Systems: Wireless Communication and Engineering Systems]]></description><link>https://muratmz.github.io</link><generator>RSS for Node</generator><lastBuildDate>Fri, 04 Nov 2016 20:04:18 GMT</lastBuildDate><atom:link href="https://muratmz.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Why FR-4 Is Often Inadequate for RF Design]]></title><description><![CDATA[<div class="paragraph">
 <p>Many times, designers want to use FR-4 for RF and microwave circuit designs. After all, it is less expensive than other materials, like Rogers 4350, and much less expensive than reinforced PTFE composite boards such as Rogers RT/Duroid 5870. However, sometimes it is necessary to spend the money for higher quality circuit board material and processing to get good, repeatable designs.
 In this paper, to demonstrate the danger of using FR-4 for some designs, I will design a bandpass filter to work in the 2.4 GHz FCC Part 15 band which is typically used for WiFi, Bluetooth, ZigBee, cordless phones, and many other applications. The filter will be designed using the microwave filter design tool that is part of the Keysight (formerly Agilent) Genesys suite of RF and microwave design software. The pass band is defined as 2.4 to 2.483 GHz. I set an insertion loss goal of 3 dB. The filter program first designs a filter which is close to the desired performance, but it must be optimized to get the performance that is closest to the desired performance. In the case of the first filter, I used FR-4 with a dielectric constant of 4.5, a loss tangent of 0.010, and a thickness of 59 mils. The metallization is 1 oz. rolled copper. Figure 1 shows the final, optimized performance.</p>
 </div>
@@ -35,7 +35,9 @@ Selangor 43000, Malaysia</p>
 </div>
 <div class="paragraph">
 <p>via this link we can conduct MSc or PhD programs in Japan.</p>
-</div>]]></description><link>https://muratmz.github.io/2016/11/04/Japan-Graduate-School-Directory.html</link><guid isPermaLink="true">https://muratmz.github.io/2016/11/04/Japan-Graduate-School-Directory.html</guid><pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[FR4]]></title><description><![CDATA[<div class="paragraph">
+</div>]]></description><link>https://muratmz.github.io/2016/11/04/Japan-Graduate-School-Directory.html</link><guid isPermaLink="true">https://muratmz.github.io/2016/11/04/Japan-Graduate-School-Directory.html</guid><pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[FR4]]></title><description><![CDATA[<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph">
 <p><a href="https://en.wikipedia.org/wiki/FR-4" class="bare">https://en.wikipedia.org/wiki/FR-4</a></p>
 </div>
 <div class="paragraph">
@@ -49,4 +51,136 @@ Selangor 43000, Malaysia</p>
 </div>
 <div class="paragraph">
 <p>NEMA is the regulating authority for FR-4 and other insulating laminate grades. Grade designations for glass epoxy laminates are: G10, G11, FR4, FR5 and FR6. Of these, FR4 is the grade most widely in use today. G-10, the predecessor to FR-4, lacks FR-4&#8217;s self-extinguishing flammability characteristics. Hence, FR-4 has since[when?] replaced G-10 in most applications.</p>
+</div>
+</div>
+</div>
+<h1 id="_printed_circuit_board" class="sect0">Printed circuit board</h1>
+<div class="paragraph">
+<p><a href="https://en.wikipedia.org/wiki/Printed_circuit_board" class="bare">https://en.wikipedia.org/wiki/Printed_circuit_board</a></p>
+</div>
+<div class="paragraph">
+<p>Materials[edit]
+Excluding exotic products using special materials or processes all printed circuit boards manufactured today can be built using the following four materials:</p>
+</div>
+<div class="paragraph">
+<p>Laminates
+Copper-clad laminates
+Resin impregnated B-stage cloth (Pre-preg)
+Copper foil
+Laminates[edit]
+Laminates are manufactured by curing under pressure and temperature layers of cloth or paper with thermoset resin to form an integral final piece of uniform thickness. The size can be up to 4 by 8 feet (1.2 by 2.4 m) in width and length. Varying cloth weaves (threads per inch or cm), cloth thickness, and resin percentage are used to achieve the desired final thickness and dielectric characteristics. Available standard laminate thickness are listed in</p>
+</div>
+<div class="paragraph">
+<p>Table 1
+Standard laminate thickness per ANSI/IPC-D-275[38][Note 1]
+IPC laminate
+number	Thickness
+in inches	Thickness
+in millimeters	 	IPC laminate
+number	Thickness
+in inches	Thickness
+in millimeters
+L1	0.002	0.05	 	L9	0.028	0.70
+L2	0.004	0.10	 	L10	0.035	0.90
+L3	0.006	0.15	 	L11	0.043	1.10
+L4	0.008	0.20	 	L12	0.055	1.40
+L5	0.010	0.25	 	L13	0.059	1.50
+L6	0.012	0.30	 	L14	0.075	1.90
+L7	0.016	0.40	 	L15	0.090	2.30
+L8	0.020	0.50	 	L16	0.122	3.10
+Notes:</p>
+</div>
+<div class="paragraph">
+<p>Jump up ^ Although this specification has been superseded and the new specification does not list standard sizes,[39] these are still the most common sizes stocked and ordered for manufacturer.
+The cloth or fiber material used, resin material, and the cloth to resin ratio determine the laminate&#8217;s type designation (FR-4, CEM-1, G-10, etc.) and therefore the characteristics of the laminate produced. Important characteristics are the level to which the laminate is fire retardant, the dielectric constant (er), the loss factor (tδ), the tensile strength, the shear strength, the glass transition temperature (Tg), and the Z-axis expansion coefficient (how much the thickness changes with temperature).</p>
+</div>
+<div class="paragraph">
+<p>There are quite a few different dielectrics that can be chosen to provide different insulating values depending on the requirements of the circuit. Some of these dielectrics are polytetrafluoroethylene (Teflon), FR-4, FR-1, CEM-1 or CEM-3. Well known pre-preg materials used in the PCB industry are FR-2 (phenolic cotton paper), FR-3 (cotton paper and epoxy), FR-4 (woven glass and epoxy), FR-5 (woven glass and epoxy), FR-6 (matte glass and polyester), G-10 (woven glass and epoxy), CEM-1 (cotton paper and epoxy), CEM-2 (cotton paper and epoxy), CEM-3 (non-woven glass and epoxy), CEM-4 (woven glass and epoxy), CEM-5 (woven glass and polyester). Thermal expansion is an important consideration especially with ball grid array (BGA) and naked die technologies, and glass fiber offers the best dimensional stability.</p>
+</div>
+<div class="paragraph">
+<p>FR-4 is by far the most common material used today. The board with copper on it is called "copper-clad laminate".</p>
+</div>
+<div class="paragraph">
+<p>With decreasing size of board features and increasing frequencies, small nonhomogeneities like uneven distribution of fiberglass or other filler, thickness variations, and bubbles in the resin matrix, and the associated local variations in the dielectric constant, are gaining importance.</p>
+</div>
+<div class="paragraph">
+<p>Key substrate parameters[edit]
+The circuitboard substrates are usually dielectric composite materials. The composites contain a matrix (usually an epoxy resin), a reinforcement (usually a woven, sometimes nonwoven, glass fibers, sometimes even paper), and in some cases a filler is added to the resin (e.g. ceramics; titanate ceramics can be used to increase the dielectric constant).</p>
+</div>
+<div class="paragraph">
+<p>The reinforcement type defines two major classes of materials - woven and non-woven. Woven reinforcements are cheaper, but the high dielectric constant of glass may not be favorable for many higher-frequency applications. The spatially nonhomogeneous structure also introduces local variations in electrical parameters, due to different resin/glass ratio at different areas of the weave pattern. Nonwoven reinforcements, or materials with low or no reinforcement, are more expensive but more suitable for some RF/analog applications.</p>
+</div>
+<div class="paragraph">
+<p>The substrates are characterized by several key parameters, chiefly thermomechanical (glass transition temperature, tensile strength, shear strength, thermal expansion), electrical (dielectric constant, loss tangent, dielectric breakdown voltage, leakage current, tracking resistance&#8230;&#8203;), and others (e.g. moisture absorption).</p>
+</div>
+<div class="paragraph">
+<p>At the glass transition temperature the resin in the composite softens and significantly increases thermal expansion; exceeding Tg then exerts mechanical overload on the board components - e.g. the joints and the vias. Below Tg the thermal expansion of the resin roughly matches copper and glass, above it gets significantly higher. As the reinforcement and copper confine the board along the plane, virtually all volume expansion projects to the thickness and stresses the plated-through holes. Repeated soldering or other exposition to higher temperatures can cause failure of the plating, especially with thicker boards; thick boards therefore require high Tg matrix.</p>
+</div>
+<div class="paragraph">
+<p>The materials used determine the substrate&#8217;s dielectric constant. This constant is also dependent on frequency, usually decreasing with frequency. As this constant determines the signal propagation speed, frequency dependence introduces phase distortion in wideband applications; as flat dielectric constant vs frequency characteristics as achievable is important here. The impedance of transmission lines decreases with frequency, therefore faster edges of signals reflect more than slower ones.</p>
+</div>
+<div class="paragraph">
+<p>Dielectric breakdown voltage determines the maximum voltage gradient the material can be subjected to before suffering a breakdown.</p>
+</div>
+<div class="paragraph">
+<p>Tracking resistance determines how the material resists high voltage electrical discharges creeping over the board surface.</p>
+</div>
+<div class="paragraph">
+<p>Loss tangent determines how much of the electromagnetic energy from the signals in the conductors is absorbed in the board material. This factor is important for high frequencies. Low-loss materials are more expensive. Choosing unnecessarily low-loss material is a common error in high-frequency digital design; it increases the cost of the boards without a corresponding benefit. Signal degradation by loss tangent and dielectric constant can be easily assessed by an eye pattern.</p>
+</div>
+<div class="paragraph">
+<p>Moisture absorption occurs when the material is exposed to high humidity or water. Both the resin and the reinforcement may absorb water; water may be also soaked by capillary forces through voids in the materials and along the reinforcement. Epoxies of the FR-4 materials aren&#8217;t too susceptible, with absorption of only 0.15%. Teflon has very low absorption of 0.01%. Polyimides and cyanate esters, on the other side, suffer from high water absorption. Absorbed water can lead to significant degradation of key parameters; it impairs tracking resistance, breakdown voltage, and dielectric parameters. Relative dielectric constant of water is about 73, compared to about 4 for common circuitboard materials. Absorbed moisture can also vaporize on heating and cause cracking and delamination, the same effect responsible for "popcorning" damage on wet packaging of electronic parts. Careful baking of the substrates may be required.[40]</p>
+</div>
+<div class="paragraph">
+<p>Common substrates[edit]
+Often encountered materials:</p>
+</div>
+<div class="paragraph">
+<p>FR-2 (Flame Retardant 2), phenolic paper or phenolic cotton paper, paper impregnated with a phenol formaldehyde resin. Cheap, common in low-end consumer electronics with single-sided boards. Electrical properties inferior to FR-4. Poor arc resistance. Generally rated to 105 °C. Resin composition varies by supplier.
+FR-4 (Flame Retardant 4), a woven fiberglass cloth impregnated with an epoxy resin. Low water absorption (up to about 0.15%), good insulation properties, good arc resistance. Well-proven, properties well understood by manufacturers. Very common, workhorse of the industry. Several grades with somewhat different properties are available. Typically rated to 130 °C. Thin FR-4, about 0.1 mm, can be used for bendable circuitboards. Many different grades exist, with varying parameters; versions are with higher Tg, higher tracking resistance, etc.
+Aluminium, or metal core board or insulated metal substrate (IMS), clad with thermally conductive thin dielectric - used for parts requiring significant cooling - power switches, LEDs. Consists of usually single, sometimes double layer thin circuitboard based on e.g. FR-4, laminated on an aluminium sheetmetal, commonly 0.8, 1, 1.5, 2 or 3 mm thick. The thicker laminates sometimes come also with thicker copper metalization.
+Flexible substrates - can be a standalone copper-clad foil or can be laminated to a thin stiffener, e.g. 50-130 µm
+Kapton, a polyimide foil. Used for flexible printed circuits, in this form common in small form-factor consumer electronics or for flexible interconnects. Resistant to high temperatures.
+Pyralux, a polyimide-fluoropolymer composite foil.[41] Copper layer can delaminate during soldering.
+Less-often encountered materials:</p>
+</div>
+<div class="paragraph">
+<p>FR-1 (Flame Retardant 1), like FR-2, typically specified to 105 °C, some grades rated to 130 °C. Room-temperature punchable. Similar to cardboard. Poor moisture resistance. Low arc resistance.
+FR-3 (Flame Retardant 3), cotton paper impregnated with epoxy. Typically rated to 105 °C.
+FR-5 (Flame Retardant 5), woven fiberglass and epoxy, high strength at higher temperatures, typically specified to 170 °C.
+FR-6 (Flame Retardant 6), matte glass and polyester
+G-10, woven glass and epoxy - high insulation resistance, low moisture absorption, very high bond strength. Typically rated to 130 °C.
+G-11, woven glass and epoxy - high resistance to solvents, high flexural strength retention at high temperatures.[42] Typically rated to 170 °C.
+CEM-1, cotton paper and epoxy
+CEM-2, cotton paper and epoxy
+CEM-3, non-woven glass and epoxy
+CEM-4, woven glass and epoxy
+CEM-5, woven glass and polyester
+PTFE, pure - expensive, low dielectric loss, for high frequency applications, very low moisture absorption (0.01%), mechanically soft. Difficult to laminate, rarely used in multilayer applications.
+PTFE, ceramic filled - expensive, low dielectric loss, for high frequency applications. Varying ceramics/PTFE ratio allows adjusting dielectric constant and thermal expansion.
+RF-35, fiberglass-reinforced ceramics-filled PTFE. Relatively less expensive, good mechanical properties, good high-frequency properties.[43][44]
+Alumina, a ceramic. Hard, brittle, very expensive, very high performance, good thermal conductivity.
+Polyimide, a high-temperature polymer. Expensive, high-performance. Higher water absorption (0.4%). Can be used from cryogenic temperatures to over 260 °C.
+Copper thickness[edit]
+Copper thickness of PCBs can be specified as units of length (in micrometers or mils) but is often specified as weight of copper per area (in ounce per square foot) which is easier to measure. One ounce per square foot is 1.344 mils or 34 micrometers thickness.</p>
+</div>
+<div class="paragraph">
+<p>The printed circuit board industry defines heavy copper as layers exceeding three ounces of copper, or approximately 0.0042 inches (4.2 mils, 105 μm) thick. PCB designers and fabricators often use heavy copper when design and manufacturing circuit boards in order to increase current-carrying capacity as well as resistance to thermal strains. Heavy copper-plated vias transfer heat to external heat sinks. IPC 2152 is a standard for determining current-carrying capacity of printed circuit board traces.</p>
+</div>
+<div class="paragraph">
+<p>On the common FR-4 substrates, 1 oz copper (35 µm) is the usual, most common thickness; 2 oz (70 µm) and 0.5 oz (18 µm) thickness is often an option. Less common are 12 and 105 µm, 9 µm is sometimes available on some substrates. Flexible substrates typically have thinner metalization; 18 and 35 µm seem to be common, with 9 and 70 µm sometimes available. Aluminium or metal-core boards for high power devices commonly use thicker copper; 35 µm is usual but also 140 and 400 µm can be encountered.</p>
+</div>
+<div class="paragraph">
+<p>Safety certification (US)[edit]
+Safety Standard UL 796 covers component safety requirements for printed wiring boards for use as components in devices or appliances. Testing analyzes characteristics such as flammability, maximum operating temperature, electrical tracking, heat deflection, and direct support of live electrical parts.</p>
+</div>
+<div class="paragraph">
+<p>Multiwire boards[edit]
+Multiwire is a patented technique of interconnection which uses machine-routed insulated wires embedded in a non-conducting matrix (often plastic resin). It was used during the 1980s and 1990s. (Kollmorgen Technologies Corp, U.S. Patent 4,175,816 filed 1978) Multiwire is still available in 2010 through Hitachi. There are other competitive discrete wiring technologies that have been developed (Jumatech [2], layered sheets).</p>
+</div>
+<div class="paragraph">
+<p>Since it was quite easy to stack interconnections (wires) inside the embedding matrix, the approach allowed designers to forget completely about the routing of wires (usually a time-consuming operation of PCB design): Anywhere the designer needs a connection, the machine will draw a wire in straight line from one location/pin to another. This led to very short design times (no complex algorithms to use even for high density designs) as well as reduced crosstalk (which is worse when wires run parallel to each other—which almost never happens in Multiwire), though the cost is too high to compete with cheaper PCB technologies when large quantities are needed.</p>
+</div>
+<div class="paragraph">
+<p>Corrections can be made to a Multiwire board more easily than to a PCB.[45]</p>
 </div>]]></description><link>https://muratmz.github.io/2016/11/04/F-R.html</link><guid isPermaLink="true">https://muratmz.github.io/2016/11/04/F-R.html</guid><pubDate>Fri, 04 Nov 2016 00:00:00 GMT</pubDate></item></channel></rss>
