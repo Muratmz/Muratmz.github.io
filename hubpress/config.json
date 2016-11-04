@@ -4,7 +4,9 @@
     "repositoryName": "muratmz.github.io",
     "branch": "master"
   },
+  "site": {},
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "saga"
   }
 }
