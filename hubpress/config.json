@@ -4,7 +4,11 @@
     "repositoryName": "muratmz.github.io",
     "branch": "master"
   },
-  "site": {},
+  "site": {
+    "title": "Notes of a researcher : Wireless Communication Research",
+    "description": "Research and Development Systems: Wireless Communication and Engineering Systems",
+    "postsPerPage": "10"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "ichi"
