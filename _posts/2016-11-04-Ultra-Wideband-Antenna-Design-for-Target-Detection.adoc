@@ -1,0 +1,22 @@
+= Ultra Wideband Antenna Design for Target Detection
+
+Abstract—In this paper, a four-element microstrip antenna array is
+presented. The array is composed of Wilkinson power dividers which
+act as feed network along with Dolph-Chebyshev distribution and fouridentical
+patch antenna elements. The array elements are properly
+designed to have a compact size and constant gain against frequency.
+The simulated results show good agreement with the measured results
+for the fabricated antenna array. Measurement shows that the array
+has a peak gain of more than 12 dBi with side-lobe level of −15 dB
+at 6 GHz. These characteristics make the antenna array suitable for
+UWB directional uses.
+
+http://www.jpier.org/PIERC/pierc25/06.11090607.pdf
+
+B Kasi1, * and C. K. Chakrabarty2
+1Department of Electrical and Electronics Engineering, Kuala Lumpur
+Infrastructure University College, Kajang, Selangor 43000, Malaysia
+2Centre for RF and Microwave Engineering, Department of Electronics
+and Communication Engineering, Universiti Tenaga Nasional, Kajang,
+Selangor 43000, Malaysia
+
