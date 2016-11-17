@@ -1,0 +1,4 @@
+= Amplification Power and Voltage Calculator ~ dB dBm Watt Volt Amper
+
+http://www.sengpielaudio.com/calculator-amplification.htm
+
