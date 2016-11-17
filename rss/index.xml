@@ -1,4 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes of a researcher : Wireless Communication Research]]></title><description><![CDATA[Research and Development Systems: Wireless Communication and Engineering Systems]]></description><link>https://muratmz.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Nov 2016 12:53:35 GMT</lastBuildDate><atom:link href="https://muratmz.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Antenna Video Lecture - courses]]></title><description><![CDATA[<div class="paragraph">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Notes of a researcher : Wireless Communication Research]]></title><description><![CDATA[Research and Development Systems: Wireless Communication and Engineering Systems]]></description><link>https://muratmz.github.io</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 Nov 2016 12:54:00 GMT</lastBuildDate><atom:link href="https://muratmz.github.io/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Amplification Power and Voltage Calculator ~ dB dBm Watt Volt Amper]]></title><description><![CDATA[<div class="paragraph">
+<p><a href="http://www.sengpielaudio.com/calculator-amplification.htm" class="bare">http://www.sengpielaudio.com/calculator-amplification.htm</a>
+<a href="http://www.sengpielaudio.com/calculator-db.htm" class="bare">http://www.sengpielaudio.com/calculator-db.htm</a></p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre> 3 dB ≡	 1.414 times the voltage	   (−)3 dB ≡	 damping to the value 0.707
+ 6 dB ≡	         2 times the voltage	   (−)6 dB ≡	 damping to the value 0.5
+10 dB ≡	 3.162 times the voltage	   (−)10 dB ≡	 damping to the value 0.316
+12 dB ≡	 4 times the voltage	   (−)12 dB ≡	 damping to the value 0.25
+20 dB ≡	      10 times the voltage	    (−)20 dB ≡	 damping to the value 0.1</pre>
+</div>
+</div>
+<div class="paragraph">
+<p>Using voltage we get: Level in dB: L = 20 × log (voltage ratio)</p>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>  6 dB = twice the voltage
+12 dB = four times the voltage
+20 dB = ten times the voltage
+40 dB = hundred times the voltage</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre> 3 dB ≡	 2 times the power	   (−3) dB ≡	 damping to the value 0.5
+ 6 dB ≡	         4 times the power	   (−6) dB ≡	 damping to the value 0.25
+10 dB ≡	 10 times the power	   (−10) dB ≡	 damping to the value 0.1
+12 dB ≡	 16 times the power	   (−12) dB ≡	 damping to the value 0.0625
+20 dB ≡	      100 times the power	    (−20) dB ≡	 damping to the value 0.01
+Using power we get: Level in dB: L = 10 × log (power ratio)</pre>
+</div>
+</div>
+<div class="literalblock">
+<div class="content">
+<pre>   3 dB = twice the power
+   6 dB = four times the power
+ 10 dB = ten times the power
+ 20 dB = hundred times the power
+If you search for the amplification ratio, given the dB value,
+then go to the program dB calculation</pre>
+</div>
+</div>]]></description><link>https://muratmz.github.io/2016/11/17/Amplification-Power-and-Voltage-Calculator-dB-d-Bm-Watt-Volt-Amper.html</link><guid isPermaLink="true">https://muratmz.github.io/2016/11/17/Amplification-Power-and-Voltage-Calculator-dB-d-Bm-Watt-Volt-Amper.html</guid><pubDate>Thu, 17 Nov 2016 00:00:00 GMT</pubDate></item><item><title><![CDATA[Antenna Video Lecture - courses]]></title><description><![CDATA[<div class="paragraph">
 <p><a href="http://www.ll.mit.edu/workshops/education/videocourses/antennas/index.html" class="bare">http://www.ll.mit.edu/workshops/education/videocourses/antennas/index.html</a></p>
 </div>
 <div class="paragraph">
