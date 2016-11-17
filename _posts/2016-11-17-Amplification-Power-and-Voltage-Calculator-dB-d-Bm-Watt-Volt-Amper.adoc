@@ -16,12 +16,9 @@ Using voltage we get: Level in dB: L = 20 × log (voltage ratio)
 12 dB = four times the voltage
 20 dB = ten times the voltage
 40 dB = hundred times the voltage
-If we consider audio engineering, we are usually not interested in power.
-Do not ask what power amplification means.
-Leave that to the telephone companies or the transmitting aerials (antennas).
-Power gain is really not used in audio engineering.
-Do we really need power (energy) amplification?
-Read the text at the bottom.
+
+
+
 
  3 dB ≡	 2 times the power	   (−3) dB ≡	 damping to the value 0.5
  6 dB ≡	         4 times the power	   (−6) dB ≡	 damping to the value 0.25
