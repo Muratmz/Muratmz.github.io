@@ -1,7 +1,6 @@
 = Antenna Properties & Terminology
 
 This video was made for a junior electromagnetics course in electrical engineering at Bucknell University, USA. The video is designed to be used as the out-of-the-classroom component and combined with active learning exercises in class. This video covers some of the terminology and equations that engineers use to define the properties of antennas.
-DAHA FAZLA GÖSTER
 
 https://www.youtube.com/watch?v=GVYEVhZ-BaE
 
